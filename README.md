@@ -4,7 +4,7 @@ Ce programme est un jeu de devinette développé en Rust. C'est mon premier prog
 
 ## Description
 
-Dans ce jeu, l'utilisateur doit deviner un nombre secret compris entre 1 et 100. À chaque tentative, le jeu indique si le nombre saisi est trop petit, trop grand ou correct. Le jeu se termine lorsque l'utilisateur devine correctement le nombre ou épuise toutes ses tentatives.
+Dans ce jeu, l'utilisateur doit deviner un nombre secret compris entre 1 et 100. À chaque tentative, le jeu indique si le nombre  correct. Le jeu se termine lorsque l'utilisateur devine correctement le nombre ou épuise toutes ses tentatives.
 
 Ce projet a été réalisé dans le cadre de mon apprentissage de Rust et pour mettre en pratique les concepts de base du langage.
 
